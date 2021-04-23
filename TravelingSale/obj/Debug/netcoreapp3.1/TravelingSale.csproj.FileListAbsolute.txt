@@ -1,0 +1,13 @@
+C:\Users\karmc\source\repos\TravelingSale\TravelingSale\bin\Debug\netcoreapp3.1\TravelingSale.exe
+C:\Users\karmc\source\repos\TravelingSale\TravelingSale\bin\Debug\netcoreapp3.1\TravelingSale.deps.json
+C:\Users\karmc\source\repos\TravelingSale\TravelingSale\bin\Debug\netcoreapp3.1\TravelingSale.runtimeconfig.json
+C:\Users\karmc\source\repos\TravelingSale\TravelingSale\bin\Debug\netcoreapp3.1\TravelingSale.runtimeconfig.dev.json
+C:\Users\karmc\source\repos\TravelingSale\TravelingSale\bin\Debug\netcoreapp3.1\TravelingSale.dll
+C:\Users\karmc\source\repos\TravelingSale\TravelingSale\bin\Debug\netcoreapp3.1\TravelingSale.pdb
+C:\Users\karmc\source\repos\TravelingSale\TravelingSale\obj\Debug\netcoreapp3.1\TravelingSale.csprojAssemblyReference.cache
+C:\Users\karmc\source\repos\TravelingSale\TravelingSale\obj\Debug\netcoreapp3.1\TravelingSale.AssemblyInfoInputs.cache
+C:\Users\karmc\source\repos\TravelingSale\TravelingSale\obj\Debug\netcoreapp3.1\TravelingSale.AssemblyInfo.cs
+C:\Users\karmc\source\repos\TravelingSale\TravelingSale\obj\Debug\netcoreapp3.1\TravelingSale.csproj.CoreCompileInputs.cache
+C:\Users\karmc\source\repos\TravelingSale\TravelingSale\obj\Debug\netcoreapp3.1\TravelingSale.dll
+C:\Users\karmc\source\repos\TravelingSale\TravelingSale\obj\Debug\netcoreapp3.1\TravelingSale.pdb
+C:\Users\karmc\source\repos\TravelingSale\TravelingSale\obj\Debug\netcoreapp3.1\TravelingSale.genruntimeconfig.cache
